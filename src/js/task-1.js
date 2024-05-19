@@ -1,6 +1,6 @@
 console.log(`Task-1`);
 
-let categories = document.querySelectorAll('ul#categories > .item');
+const categories = document.querySelectorAll('ul#categories > .item');
 
 console.log(`У списку ${categories.length} категорії.`);
 
